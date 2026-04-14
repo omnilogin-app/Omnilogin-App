@@ -4,12 +4,11 @@
   </a>
 </p>
 
-<h1 align="center">Omnilogin: Antidetect Browser for Professional Multi-Account Management</h1>
+<h1 align="center">Antidetect Browser for Professional Multi-Account Management</h1>
 
 <p align="center">
   <strong>Run thousands of authentic browser environments, automate repetitive work, and keep every profile isolated on your own device.</strong>
 </p>
----
 
 Omnilogin is a Chromium-based antidetect browser and workflow automation platform built for multi-account management, with one of the lowest detection rates and a local-first privacy model.
 
